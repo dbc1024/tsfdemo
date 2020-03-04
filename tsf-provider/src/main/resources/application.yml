@@ -1,5 +1,5 @@
 server:
-  port: 180811
+  port: 18081
 spring:
   application:
     name: tsf-provider
